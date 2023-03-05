@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I'm studing Ai Dweveloper at KPI6 ⚡
-- :surfing_man: In love whit Ai World  :surfing_man:
-- 🌱Bachelor's Degree in Environmental Sciences and Technologies and Master's Degree in Data Science🌱
-- :weight_lifting_man: My goal is to merge my passion for environmental science with my interest in computer science, leveraging machine learning technologies to identify and implement sustainable solutions. :weight_lifting_man:
--  📫 How to reach me: g.defeudis996@gmail.com
+🌱 AI Developer at KPI6 ⚡
+🏄‍♂️ Passionate about the AI world 🏄‍♂️
+🌱 Holds a Bachelor's Degree in Environmental Sciences and Technologies and a Master's Degree in Data Science 🌱
+🏋️‍♂️ My mission is to merge my love for environmental science and computer science, utilizing machine learning to identify and implement sustainable solutions 🏋️‍♂️
+📫 Reach me at g.defeudis996@gmail.com
