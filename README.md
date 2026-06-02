@@ -1,16 +1,17 @@
-# Hi there 👋
+# Hi, I'm Giovanni 👋
 
-## About Me
-- 🤖 **AI Software Developer** at BIP - Milan
-- 🌱 B.Sc. in Environmental Sciences, M.Sc. in Data Science
-- 🏄‍♂️ Passionate about AI, software development, and sustainable solutions
-- 🏋️‍♂️ Merging environmental science with AI to drive sustainability
+**AI Software Developer** focused on building clean, maintainable, and well-tested software.
 
-## Technical Skills
-- ⚡ **Expert in:** Python, Docker, Terraform, Azure (AKS, APIM), and microservices architecture
-- 💻 **Proficient in:** FastAPI, Software Design and event-driven programming
-- ☁️ **Cloud platforms:** Azure (specialist), AWS, GCP
+---
 
-## Connect With Me
-- 🌐 [LinkedIn](https://www.linkedin.com/in/giovanni-de-feudis-7b59a212b/)
-- 📫 Email: g.defeudis996@gmail.com
+## 👨‍💻 About me
+
+- 🤖 AI Software Developer at **BIP** — Milan
+- 🎓 B.Sc. in Environmental Sciences, M.Sc. in Data Science
+- 🌱 Merging environmental science with AI to drive sustainable solutions
+- 🤝 Open to collaboration and new opportunities
+
+## 📫 Get in touch
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovanni-de-feudis-7b59a212b/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:g.defeudis996@gmail.com)
