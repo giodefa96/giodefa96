@@ -1,15 +1,15 @@
 # Hi, I'm Giovanni 👋
 
-**AI Software Developer** focused on building clean, maintainable, and well-tested software.
+**Software Engineer** building real-time computer vision and edge AI for agriculture.
 
 ---
 
 ## 👨‍💻 About me
 
-- 🤖 AI Software Developer at **BIP** — Milan
+- 🌾 Software Engineer in the Agritech Business Unit at **Orobix** (a Domyn company)
+- 🛠️ Vertical Technical Leader — from architecture and product vision to edge & cloud delivery
 - 🎓 B.Sc. in Environmental Sciences, M.Sc. in Data Science
-- 🌱 Merging environmental science with AI to drive sustainable solutions
-- 🤝 Open to collaboration and new opportunities
+- 🌱 Combining software engineering with environmental sustainability
 
 ## 📫 Get in touch
 
